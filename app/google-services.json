@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "104584627482",
+    "firebase_url": "https://syvocandroid.firebaseio.com",
+    "project_id": "syvocandroid",
+    "storage_bucket": "syvocandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104584627482:android:beec5aa185aee3a5",
+        "android_client_info": {
+          "package_name": "com.youcampro.syvoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104584627482-s9eg74q3pg0pjl7557daki43gnppav0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.youcampro.syvoc",
+            "certificate_hash": "16ebc1270c49de34599e8ba52af3c139d299c96d"
+          }
+        },
+        {
+          "client_id": "104584627482-4gevfrtivbb7qc7eonrd18n4sf2a971n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKABll-66_4R1jRgkkGRnj5b-FDy1d4QE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104584627482-4gevfrtivbb7qc7eonrd18n4sf2a971n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
